@@ -4,7 +4,7 @@ which gives you more powers to control the victim's device and run some viruses 
 ----------------------------------------------------------------------------------------------------------
 1, you will download the file and place it inside the program
 
-![image](https://github.com/ALMASONYH/UAC-Bypasser/assets/117776155/547c30c2-00d6-4bbd-b4bf-e11277afa05c)
+![image](https://github.com/ALMASONYH/UAC-Bypasser/assets/117776155/c553fdb2-a984-455b-be50-6a1e6f897a52)
 
 Save the file to a specified path
 
